@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides information on the aims of the course,
   the instructor, prerequisites, the organization of the course, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
